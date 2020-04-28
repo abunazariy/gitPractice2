@@ -20,7 +20,9 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1bB5kXBaA6z6htOwtGHWvQvWL7H" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -55,9 +57,9 @@
     </option>
   </component>
   <component name="WindowStateProjectService">
-    <state x="169" y="104" width="1182" height="544" key="DiffContextDialog" timestamp="1588093180990">
+    <state x="169" y="104" width="1182" height="544" key="DiffContextDialog" timestamp="1588095229519">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="169" y="104" width="1182" height="544" key="DiffContextDialog/0.0.1366.728@0.0.1366.728" timestamp="1588093180990" />
+    <state x="169" y="104" width="1182" height="544" key="DiffContextDialog/0.0.1366.728@0.0.1366.728" timestamp="1588095229519" />
   </component>
 </project>
